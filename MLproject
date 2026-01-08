@@ -1,4 +1,4 @@
-name: californian_housing_market
+name: Solar_energy_prediction
 docker_env:
   image: jedha/sample-mlflow-server
   environment: [
