@@ -61,7 +61,7 @@ print("Training in progress....")
 # Variables
 load_dotenv()
 os.environ["MLFLOW_TRACKING_URI"] = "https://renergies99lead-mlflow.hf.space/"
-EXPERIMENT_NAME = "REnergie-lead"
+EXPERIMENT_NAME = "renergie-lead"
 
 
 # Features and target definition
